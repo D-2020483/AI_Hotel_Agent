@@ -65,10 +65,11 @@ This AI assistant can help guests with room bookings, pricing, check-in/check-ou
 
 ## 🚀 Deployment
 
-- The app is deployed on **Hugging Face Spaces**.  
+- The app is deployed on **Hugging Face Spaces**.
 - Hugging Face automatically builds and hosts the app.  
 - API key is stored securely using **Hugging Face Secrets**.  
 - Users can access the AI Assistant online through a web browser.
+- [Hugging Face Deployment Link](https://huggingface.co/spaces/Imalsha24/hotel-ai-agent).
 
 ---
 
